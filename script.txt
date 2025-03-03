@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ShadowFlasi/ps99script/refs/heads/main/zaphubscriptmain.lua'))()
